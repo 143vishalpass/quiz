@@ -1,0 +1,13 @@
+body {
+  background-color:lightcyan;
+}
+div{
+  text-align: center;
+}
+a {
+  background-color: lightcyan;
+}
+h1 {
+  border: solid 1px white;
+  background-color: lightyellow;
+}

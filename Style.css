@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+.container {
+  border: solid 4px white;
+  color: white;
+}
+.head {
+  color:red;
+}
+h2{
+  color: white;
+}
+button{
+  width:100px ;
+  height: 25px;
+}
+.imp{
+  color: black;
+  text-size-adjust:100px;
+}
+  
+}

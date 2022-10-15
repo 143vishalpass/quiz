@@ -1,0 +1,16 @@
+body {
+  background-color:lightcyan;
+}
+div{
+  border: solid 2px black;
+  display:flex;
+  flex-direction: column;
+  width:250px ;
+}
+a {
+  background-color: lightcyan;
+}
+h1 {
+  border: solid 1px white;
+  background-color: lightyellow;
+}

@@ -1,0 +1,14 @@
+body {
+  background-color:black;
+}
+h1{
+  border:solid 1px white;
+  background-color: lightyellow;
+  text-align: center;
+}
+img {
+  height:600px;
+  width: 400px;
+  text-align: center;
+  padding:0px;
+}
